@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpInterface", "CSharpInterface\CSharpInterface.csproj", "{8948E0F1-D6C6-4E57-A757-171DD6B6756C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataReaderService", "DataReaderService\DataReaderService.csproj", "{18B587EA-5D1C-45D0-8446-20C85FB81E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8948E0F1-D6C6-4E57-A757-171DD6B6756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8948E0F1-D6C6-4E57-A757-171DD6B6756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8948E0F1-D6C6-4E57-A757-171DD6B6756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8948E0F1-D6C6-4E57-A757-171DD6B6756C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B587EA-5D1C-45D0-8446-20C85FB81E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B587EA-5D1C-45D0-8446-20C85FB81E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B587EA-5D1C-45D0-8446-20C85FB81E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B587EA-5D1C-45D0-8446-20C85FB81E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08BA6E70-6283-42A6-BC34-B4EA05730365}
+	EndGlobalSection
+EndGlobal

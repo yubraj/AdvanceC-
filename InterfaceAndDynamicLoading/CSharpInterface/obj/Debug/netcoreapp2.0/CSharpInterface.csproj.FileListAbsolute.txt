@@ -1,0 +1,13 @@
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\CSharpInterface.deps.json
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\CSharpInterface.runtimeconfig.json
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\CSharpInterface.runtimeconfig.dev.json
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\CSharpInterface.dll
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\CSharpInterface.pdb
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.csprojResolveAssemblyReference.cache
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.csproj.CoreCompileInputs.cache
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.AssemblyInfoInputs.cache
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.AssemblyInfo.cs
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.dll
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\obj\Debug\netcoreapp2.0\CSharpInterface.pdb
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\DataReaderService.dll
+C:\Users\yubaraj\source\repos\CSharpInterface\CSharpInterface\bin\Debug\netcoreapp2.0\DataReaderService.pdb
