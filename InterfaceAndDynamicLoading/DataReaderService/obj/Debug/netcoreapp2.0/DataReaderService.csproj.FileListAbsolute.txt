@@ -1,8 +1,0 @@
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\bin\Debug\netcoreapp2.0\DataReaderService.deps.json
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\bin\Debug\netcoreapp2.0\DataReaderService.dll
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\bin\Debug\netcoreapp2.0\DataReaderService.pdb
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\obj\Debug\netcoreapp2.0\DataReaderService.csproj.CoreCompileInputs.cache
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\obj\Debug\netcoreapp2.0\DataReaderService.AssemblyInfoInputs.cache
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\obj\Debug\netcoreapp2.0\DataReaderService.AssemblyInfo.cs
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\obj\Debug\netcoreapp2.0\DataReaderService.dll
-C:\Users\yubaraj\source\repos\CSharpInterface\DataReaderService\obj\Debug\netcoreapp2.0\DataReaderService.pdb
